@@ -22,8 +22,8 @@
 const hero =[superman ,batman ,ironman ]
 
 let obj={
-    name='prince',
-    age = 20
+    name:'prince',
+    age : 20,
 }
 
 const my_fuction = function( ){
