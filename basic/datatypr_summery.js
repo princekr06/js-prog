@@ -29,3 +29,7 @@ let obj={
 const my_fuction = function( ){
     console.log("hello world")
 }
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// stack (primitive ) and heap (non-primitive)
